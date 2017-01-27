@@ -1,0 +1,42 @@
+{
+  "days" :
+  [
+    {
+        "day" : "sunday",
+        "start" : "08:30",
+        "end" :   "09:40"
+    },
+    {
+        "day" : "monday",
+        "start" : "08:30",
+        "end" :   "9:30"
+    },
+    {
+        "day" : "tuesday",
+        "start" : "08:30",
+        "end" :   "09:40"
+    },
+    {
+        "day" : "wednesday",
+        "start" : "08:30",
+        "end" :   "09:40"
+    },
+    {
+        "day" : "thursday",
+        "start" : "08:30",
+        "end" :   "09:40"
+    },
+    {
+        "day" : "friday",
+        "start" : "08:30",
+        "end" :   "09:40"
+    },
+    {
+        "day" : "saturday",
+        "start" : "08:30",
+        "end" :   "09:40"
+    }
+  ],
+  "open_message" : "Geöffnet",
+  "closed_message" : "Gerade geschlossen"
+}
